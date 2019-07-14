@@ -1,7 +1,7 @@
 module.exports = {
   "development": {
-    "username": null,
-    "password": null,
+    "username": 'postgres',
+    "password": 'postgres',
     "database": "gh_lms_development",
     "host": "127.0.0.1",
     "dialect": "postgres"
